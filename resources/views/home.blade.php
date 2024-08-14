@@ -65,25 +65,6 @@
                                 aria-expanded="false" href="#">Halaman</a>
                             <div class="dropdown-menu" role="menu">
                                 <a class="dropdown-item" role="presentation" href="/sekolah">Sekolah</a>
-                                {{-- <a class="dropdown-item" role="presentation" href="../alat">Alat</a>
-                                <a class="dropdown-item" role="presentation" href="../angkutan">Angkutan</a>
-                                <a class="dropdown-item" role="presentation" href="../bangunan">Bangunan</a>
-                                <a class="dropdown-item" role="presentation" href="../buku">Buku</a>
-                                <a class="dropdown-item" role="presentation" href="../peserta_didik">Peserta Didik</a>
-                                <a class="dropdown-item" role="presentation" href="../ptk">PTK</a>
-                                <a class="dropdown-item" role="presentation" href="../ptk_terdaftar">PTK Terdaftar</a>
-                                <a class="dropdown-item" role="presentation" href="../rombongan_belajar">Rombongan Belajar</a>
-                                <a class="dropdown-item" role="presentation" href="../ruang">Ruang</a>
-                                <a class="dropdown-item" role="presentation" href="../sanitasi">Sanitasi</a>
-                                <a class="dropdown-item" role="presentation" href="../sekolah">Sekolah</a>
-                                <a class="dropdown-item" role="presentation" href="../tanah">Tanah</a>
-								<a class="dropdown-item" role="presentation" href="#">User</a>
-                                    <a class="dropdown-item" role="presentation" href="#">User Access Menu</a>
-                                    <a class="dropdown-item" role="presentation" href="#">User Login Sessions</a>
-                                    <a class="dropdown-item" role="presentation" href="#">User Notifikasi</a>
-                                    <a class="dropdown-item" role="presentation" href="#">User Role</a>
-                                    <a class="dropdown-item" role="presentation" href="#">User Sub Menu</a>
-                                <a class="dropdown-item" role="presentation" href="../zref_jenis_ptk">Zref Jenis PTK</a> --}}
                             </div>
                         </li>
                     </ul>
